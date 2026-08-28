@@ -11,4 +11,4 @@
   + Sách -> Lấy ra (): tìm sách theo ISBN hoặc tên tác giả.
   + Tạp chí -> Lấy ra (): tìm tạp chí theo tên hoặc só phát hành
   Khi chương trình gọi lấy ra (), nếu đối tượng là Sách thì thực hiện cách của Sách; nếu là Tạp chí thì thực hiện cách của Tạp chí.
-Đây chính là đa hình: cùng một lời gọi Lấy ra () nhưng cho ra cách xử lý khác nhau tùy đối tượng.
+Đây là đa hình: cùng một lời gọi Lấy ra () nhưng cho ra cách xử lý khác nhau tùy đối tượng.
